@@ -17,5 +17,3 @@ The project uses a JSON file (`finance.json`) containing questions and answers o
 ## Contributing
 Contributions are welcome! If you have suggestions for improving the bot or adding new financial questions and answers, please open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
